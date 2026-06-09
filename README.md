@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  🚀 Actualmente enfocado en mejorar mis habilidades en <strong>Next.js</strong>, <strong>TypeScript</strong> y <strong>WordPress</strong>.
+  🚀 Actualmente enfocado en mejorar mis habilidades en <strong>.NET</strong>, <strong>TypeScript</strong> y <strong>DevOps</strong>.
 </p>
 
 <h2>✨ Proyectos Destacados</h2>
