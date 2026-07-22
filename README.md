@@ -37,13 +37,13 @@
 
 </div>
 
-🧑‍💻 Acerca de mí
+<h2>🧑‍💻 Acerca de mí</h2>
 
 Soy Desarrollador Full Stack .NET con más de tres años de experiencia en el desarrollo, mantenimiento y evolución de aplicaciones web, APIs REST y soluciones empresariales orientadas al negocio.
 
 Mi experiencia combina desarrollo backend, frontend, bases de datos, automatización y soporte de aplicaciones en entornos profesionales.
 
-💼 Áreas principales de experiencia
+<h2>💼 Áreas principales de experiencia</h2>
 
 <ul>
   <li>⚙️ Desarrollo backend con <strong>C#</strong>, <strong>.NET</strong> y <strong>ASP.NET Core Web API</strong>.</li>
@@ -56,7 +56,7 @@ Mi experiencia combina desarrollo backend, frontend, bases de datos, automatizac
 
 Actualmente continúo fortaleciendo mis conocimientos en Cloud, DevOps, arquitectura de software y herramientas de inteligencia artificial aplicadas al desarrollo, con el objetivo de construir soluciones cada vez más limpias, escalables y eficientes.
 
-⭐ Proyecto principal
+<h2>⭐ Proyecto principal</h2>
 
 <table>
   <tr>
@@ -73,6 +73,7 @@ Actualmente continúo fortaleciendo mis conocimientos en Cloud, DevOps, arquitec
         de datos, pruebas automatizadas, contenedores e integración continua.
       </p>
       <p>
+        <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/e50d9b81-34c7-4c2a-948c-ac928ee8183c" />
         <a href="https://github.com/Esauhm/ConsultoriaProyect">
           <img src="https://img.shields.io/badge/Ver%20proyecto-Consultoria%20API-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Ver Consultoria API" />
         </a>
@@ -96,34 +97,7 @@ Actualmente continúo fortaleciendo mis conocimientos en Cloud, DevOps, arquitec
   </tr>
 </table>
 
-🔎 Vista rápida del proyecto
 
-Cliente / Swagger
-       │
-       ▼
-ASP.NET Core Web API
-       │
-       ├── JWT + Roles
-       ├── FluentValidation
-       ├── ProblemDetails
-       ├── Health Checks
-       │
-       ▼
-Application Services
-       │
-       ├── Reglas de negocio
-       ├── DTOs
-       ├── Repository Contracts
-       │
-       ▼
-EF Core + SQL Server
-       │
-       ├── Migraciones y Seeders
-       ├── Paginación y AsNoTracking
-       ├── RowVersion / 409 Conflict
-       │
-       ▼
-Docker Compose + GitHub Actions CI
 
 <p>
   <img src="https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
@@ -309,6 +283,8 @@ Docker Compose + GitHub Actions CI
 </ul>
 
 <br>
+<br>
+<br>
 
 <p align="center">
   <strong>
@@ -321,7 +297,7 @@ Docker Compose + GitHub Actions CI
 
 </details>
 
-✨ Otros proyectos destacados
+<h2>✨ Otros proyectos destacados</h2>
 
 ☕🛒 BonHouse
 
@@ -335,7 +311,7 @@ Aplicación web desarrollada para una cafetería, orientada a la gestión de ven
 </p>
 
 <p align="center">
-  <img width="900" alt="BonHouse" src="https://github.com/user-attachments/assets/e09d1694-6afa-4436-a391-03353f2904b0" />
+  <img width="600" alt="BonHouse" src="https://github.com/user-attachments/assets/e09d1694-6afa-4436-a391-03353f2904b0" />
 </p>
 
 📱🧠 Next Quiz App
@@ -350,7 +326,7 @@ Aplicación móvil desarrollada como proyecto universitario, enfocada en encuest
 </p>
 
 <p align="center">
-  <img width="820" alt="Next Quiz App" src="https://github.com/user-attachments/assets/a1f18d16-baa0-4224-b3db-0f170acdae5d" />
+  <img width="600" alt="Next Quiz App" src="https://github.com/user-attachments/assets/a1f18d16-baa0-4224-b3db-0f170acdae5d" />
 </p>
 
 📱🥟 PupuSA
@@ -365,10 +341,10 @@ Aplicación móvil desarrollada para un negocio local, orientada a la gestión y
 </p>
 
 <p align="center">
-  <img width="900" alt="PupuSA" src="https://github.com/user-attachments/assets/c887b696-5b31-4729-865f-27ca446e8f02" />
+  <img width="600" alt="PupuSA" src="https://github.com/user-attachments/assets/c887b696-5b31-4729-865f-27ca446e8f02" />
 </p>
 
-🛠️ Habilidades técnicas
+<h2>🛠️ Habilidades técnicas</h2>
 
 <table>
   <tr>
@@ -396,11 +372,11 @@ Aplicación móvil desarrollada para un negocio local, orientada a la gestión y
   </tr>
 </table>
 
-🎓 Educación
+<h2>🎓 Educación </h2>
 
 Universidad Católica de El SalvadorIngeniería en Desarrollo de Software📅 2020 – 2024
 
-📞 Contacto
+<h2>📞 Contacto </h2>
 
 <p>
   📍 Santa Ana, El Salvador<br>
