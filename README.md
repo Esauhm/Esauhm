@@ -66,7 +66,7 @@ Actualmente continúo fortaleciendo mis conocimientos en Cloud, DevOps, arquitec
         de datos, pruebas automatizadas, contenedores e integración continua.
       </p>
       <p>
-        <a href="https://github.com/TU_USUARIO/Consultoria">
+        <a href="https://github.com/Esauhm/ConsultoriaProyect">
           <img src="https://img.shields.io/badge/Ver%20proyecto-Consultoria%20API-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Ver Consultoria API" />
         </a>
       </p>
