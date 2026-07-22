@@ -30,7 +30,7 @@
 
 </div>
 
-🧑‍💻 Acerca de mí
+<h2>🧑‍💻 Acerca de mí </h2>
 
 Soy Desarrollador Full Stack .NET con más de tres años de experiencia en el desarrollo, mantenimiento y evolución de aplicaciones web, APIs REST y soluciones empresariales orientadas al negocio.
 
@@ -128,7 +128,7 @@ Docker Compose + GitHub Actions CI
 </p>
 
 <details>
-<summary><strong>🧰 Ver todas las capacidades técnicas implementadas</strong></summary>
+<h2><summary><strong>🧰 Ver todas las capacidades técnicas implementadas</strong></summary></h2>
 
 <br>
 
@@ -553,7 +553,7 @@ Docker Compose + GitHub Actions CI
 
 </details>
 
-✨ Otros proyectos destacados
+<h2>✨ Otros proyectos destacados</h2>
 
 ☕🛒 BonHouse
 
