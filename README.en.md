@@ -37,13 +37,13 @@
 
 </div>
 
-🧑‍💻 About me
+<h2>🧑‍💻 About me</h2>
 
 I am a Full Stack .NET Developer with more than three years of experience building, maintaining, and improving web applications, REST APIs, and business-oriented enterprise solutions.
 
 My experience combines backend development, frontend development, databases, automation, and application support in professional environments.
 
-💼 Main areas of experience
+<h2>💼 Main areas of experience</h2>
 
 <ul>
   <li>⚙️ Backend development with <strong>C#</strong>, <strong>.NET</strong>, and <strong>ASP.NET Core Web API</strong>.</li>
@@ -56,7 +56,7 @@ My experience combines backend development, frontend development, databases, aut
 
 I am currently strengthening my knowledge of Cloud, DevOps, software architecture, and AI-assisted development tools, with the goal of building increasingly clean, scalable, and efficient solutions.
 
-⭐ Main project
+<h2>⭐ Main project</h2>
 
 <table>
   <tr>
@@ -73,6 +73,7 @@ I am currently strengthening my knowledge of Cloud, DevOps, software architectur
         automated testing, containers, and continuous integration.
       </p>
       <p>
+        <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0dfe4f59-bdfc-4138-8dca-935d92f81fac" />
         <a href="https://github.com/Esauhm/ConsultoriaProyect">
           <img src="https://img.shields.io/badge/View%20project-Consultoria%20API-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="View Consultoria API" />
         </a>
@@ -96,34 +97,7 @@ I am currently strengthening my knowledge of Cloud, DevOps, software architectur
   </tr>
 </table>
 
-🔎 Project overview
 
-Client / Swagger
-       │
-       ▼
-ASP.NET Core Web API
-       │
-       ├── JWT + Roles
-       ├── FluentValidation
-       ├── ProblemDetails
-       ├── Health Checks
-       │
-       ▼
-Application Services
-       │
-       ├── Business rules
-       ├── DTOs
-       ├── Repository Contracts
-       │
-       ▼
-EF Core + SQL Server
-       │
-       ├── Migrations and Seeders
-       ├── Pagination and AsNoTracking
-       ├── RowVersion / 409 Conflict
-       │
-       ▼
-Docker Compose + GitHub Actions CI
 
 <p>
   <img src="https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
@@ -321,7 +295,7 @@ Docker Compose + GitHub Actions CI
 
 </details>
 
-✨ Other highlighted projects
+<h2>✨ Other highlighted projects</h2>
 
 ☕🛒 BonHouse
 
@@ -335,7 +309,7 @@ Web application developed for a coffee shop, focused on sales management and eve
 </p>
 
 <p align="center">
-  <img width="900" alt="BonHouse" src="https://github.com/user-attachments/assets/e09d1694-6afa-4436-a391-03353f2904b0" />
+  <img width="600" alt="BonHouse" src="https://github.com/user-attachments/assets/e09d1694-6afa-4436-a391-03353f2904b0" />
 </p>
 
 📱🧠 Next Quiz App
@@ -350,7 +324,7 @@ Mobile application developed as a university project, focused on surveys and int
 </p>
 
 <p align="center">
-  <img width="820" alt="Next Quiz App" src="https://github.com/user-attachments/assets/a1f18d16-baa0-4224-b3db-0f170acdae5d" />
+  <img width="600" alt="Next Quiz App" src="https://github.com/user-attachments/assets/a1f18d16-baa0-4224-b3db-0f170acdae5d" />
 </p>
 
 📱🥟 PupuSA
@@ -365,10 +339,10 @@ Mobile application developed for a local business, focused on product and servic
 </p>
 
 <p align="center">
-  <img width="900" alt="PupuSA" src="https://github.com/user-attachments/assets/c887b696-5b31-4729-865f-27ca446e8f02" />
+  <img width="600" alt="PupuSA" src="https://github.com/user-attachments/assets/c887b696-5b31-4729-865f-27ca446e8f02" />
 </p>
 
-🛠️ Technical skills
+<h2>🛠️ Technical skills</h2>
 
 <table>
   <tr>
@@ -396,11 +370,11 @@ Mobile application developed for a local business, focused on product and servic
   </tr>
 </table>
 
-🎓 Education
+<h2>🎓 Education</h2>
 
 Universidad Católica de El SalvadorSoftware Development Engineering📅 2020 – 2024
 
-📞 Contact
+<h2>📞 Contact</h2>
 
 <p>
   📍 Santa Ana, El Salvador<br>
