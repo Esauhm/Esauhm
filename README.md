@@ -1,12 +1,18 @@
 <div align="center">
 
-<h1 align="center">👋 ¡Bienvenidos a mi GitHub!</h1>
-<h2 align="center">🧑‍💻 Soy Esaú Hernández Desarrollador Full Stack</h2>
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/Español-Activo-0A66C2?style=for-the-badge" alt="Español" />
+</a>
+<a href="./README.en.md">
+  <img src="https://img.shields.io/badge/English-View%20version-6C757D?style=for-the-badge" alt="English" />
+</a>
 
+<h1>👋 ¡Bienvenido a mi GitHub!</h1>
+<h2>🧑‍💻 Soy Esaú Hernández, Desarrollador Full Stack</h2>
 
 <p>
   Desarrollo APIs REST, aplicaciones web y soluciones backend escalables con
-  <strong>C#</strong>, <strong>.NET</strong>, <strong>Angular & React</strong> y
+  <strong>C#</strong>, <strong>.NET</strong>, <strong>Angular y React</strong> y
   <strong>SQL Server</strong>.
 </p>
 
@@ -22,6 +28,7 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET" />
   <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -30,13 +37,13 @@
 
 </div>
 
-<h2>🧑‍💻 Acerca de mí </h2>
+🧑‍💻 Acerca de mí
 
 Soy Desarrollador Full Stack .NET con más de tres años de experiencia en el desarrollo, mantenimiento y evolución de aplicaciones web, APIs REST y soluciones empresariales orientadas al negocio.
 
 Mi experiencia combina desarrollo backend, frontend, bases de datos, automatización y soporte de aplicaciones en entornos profesionales.
 
-<h3>💼 Áreas principales de experiencia</h3>
+💼 Áreas principales de experiencia
 
 <ul>
   <li>⚙️ Desarrollo backend con <strong>C#</strong>, <strong>.NET</strong> y <strong>ASP.NET Core Web API</strong>.</li>
@@ -49,7 +56,7 @@ Mi experiencia combina desarrollo backend, frontend, bases de datos, automatizac
 
 Actualmente continúo fortaleciendo mis conocimientos en Cloud, DevOps, arquitectura de software y herramientas de inteligencia artificial aplicadas al desarrollo, con el objetivo de construir soluciones cada vez más limpias, escalables y eficientes.
 
-<h2>⭐ Proyecto principal </h2>
+⭐ Proyecto principal
 
 <table>
   <tr>
@@ -128,7 +135,7 @@ Docker Compose + GitHub Actions CI
 </p>
 
 <details>
-<h2><summary><strong>🧰 Ver todas las capacidades técnicas implementadas</strong></summary></h2>
+<summary><strong>🧰 Ver todas las capacidades técnicas implementadas</strong></summary>
 
 <br>
 
@@ -139,405 +146,166 @@ Docker Compose + GitHub Actions CI
 </p>
 
 <h3>🏗️ Arquitectura y diseño</h3>
-
 <ul>
-  <li>
-    <strong>Clean Architecture:</strong> separación entre
-    <code>Domain</code>, <code>Application</code>,
-    <code>Infrastructure</code> y <code>API</code>.
-  </li>
-  <li>
-    Dirección controlada de dependencias entre proyectos.
-  </li>
-  <li>
-    Inyección de dependencias.
-  </li>
-  <li>
-    Repository Pattern y Service Layer.
-  </li>
-  <li>
-    DTOs para solicitudes y respuestas.
-  </li>
-  <li>
-    Interfaces para desacoplar la aplicación de la infraestructura.
-  </li>
-  <li>
-    Separación clara de responsabilidades.
-  </li>
+  <li><strong>Clean Architecture:</strong> separación entre <code>Domain</code>, <code>Application</code>, <code>Infrastructure</code> y <code>API</code>.</li>
+  <li>Dirección controlada de dependencias entre proyectos.</li>
+  <li>Inyección de dependencias.</li>
+  <li>Repository Pattern y Service Layer.</li>
+  <li>DTOs para solicitudes y respuestas.</li>
+  <li>Interfaces para desacoplar la aplicación de la infraestructura.</li>
+  <li>Separación clara de responsabilidades.</li>
 </ul>
 
 <h3>🏛️ Dominio y reglas de negocio</h3>
-
 <ul>
-  <li>
-    Entidades de dominio con estado y comportamiento encapsulados.
-  </li>
-  <li>
-    Validación de relaciones entre áreas, consultores y paquetes.
-  </li>
-  <li>
-    Desactivación lógica de registros.
-  </li>
-  <li>
-    Reactivación controlada de áreas, consultores y paquetes.
-  </li>
-  <li>
-    Cálculo automático del costo de los paquetes.
-  </li>
-  <li>
-    Obtención automática del área y tarifa desde el consultor.
-  </li>
-  <li>
-    Preservación de tarifas históricas mediante
-    <code>TarifaHoraAplicada</code>.
-  </li>
-  <li>
-    Validación de entidades activas antes de ejecutar operaciones.
-  </li>
+  <li>Entidades de dominio con estado y comportamiento encapsulados.</li>
+  <li>Validación de relaciones entre áreas, consultores y paquetes.</li>
+  <li>Desactivación lógica de registros.</li>
+  <li>Reactivación controlada de áreas, consultores y paquetes.</li>
+  <li>Cálculo automático del costo de los paquetes.</li>
+  <li>Obtención automática del área y tarifa desde el consultor.</li>
+  <li>Preservación de tarifas históricas mediante <code>TarifaHoraAplicada</code>.</li>
+  <li>Validación de entidades activas antes de ejecutar operaciones.</li>
 </ul>
 
 <h3>🌐 API REST</h3>
-
 <ul>
-  <li>
-    API desarrollada con ASP.NET Core Web API.
-  </li>
-  <li>
-    Endpoints versionados mediante <code>/api/v1</code>.
-  </li>
-  <li>
-    Controllers separados por módulo.
-  </li>
-  <li>
-    Uso de códigos HTTP apropiados.
-  </li>
-  <li>
-    Contratos de respuesta consistentes.
-  </li>
-  <li>
-    Endpoints <code>PATCH</code> para reactivación.
-  </li>
-  <li>
-    Documentación interactiva mediante OpenAPI y Swagger UI.
-  </li>
+  <li>API desarrollada con ASP.NET Core Web API.</li>
+  <li>Endpoints versionados mediante <code>/api/v1</code>.</li>
+  <li>Controllers separados por módulo.</li>
+  <li>Uso de códigos HTTP apropiados.</li>
+  <li>Contratos de respuesta consistentes.</li>
+  <li>Endpoints <code>PATCH</code> para reactivación.</li>
+  <li>Documentación interactiva mediante OpenAPI y Swagger UI.</li>
 </ul>
 
 <h3>🔐 Seguridad</h3>
-
 <ul>
-  <li>
-    Autenticación mediante JWT Bearer.
-  </li>
-  <li>
-    Tokens firmados.
-  </li>
-  <li>
-    Validación de emisor, audiencia y expiración.
-  </li>
-  <li>
-    Claims de identidad y rol.
-  </li>
-  <li>
-    Autorización basada en roles
-    <code>Admin</code> y <code>User</code>.
-  </li>
-  <li>
-    Respuestas <code>401 Unauthorized</code> y
-    <code>403 Forbidden</code>.
-  </li>
-  <li>
-    Contraseñas almacenadas mediante hash.
-  </li>
-  <li>
-    Configuración sensible mediante variables de entorno y User Secrets.
-  </li>
+  <li>Autenticación mediante JWT Bearer.</li>
+  <li>Tokens firmados.</li>
+  <li>Validación de emisor, audiencia y expiración.</li>
+  <li>Claims de identidad y rol.</li>
+  <li>Autorización basada en roles <code>Admin</code> y <code>User</code>.</li>
+  <li>Respuestas <code>401 Unauthorized</code> y <code>403 Forbidden</code>.</li>
+  <li>Contraseñas almacenadas mediante hash.</li>
+  <li>Configuración sensible mediante variables de entorno y User Secrets.</li>
 </ul>
 
 <h3>✅ Validaciones y manejo de errores</h3>
-
 <ul>
-  <li>
-    Validación de solicitudes con FluentValidation.
-  </li>
-  <li>
-    Validaciones adicionales dentro de los servicios.
-  </li>
-  <li>
-    Manejo global de excepciones.
-  </li>
-  <li>
-    Respuestas de error mediante <code>ProblemDetails</code>.
-  </li>
-  <li>
-    Manejo de errores
-    <code>400</code>, <code>404</code>, <code>409</code>,
-    <code>422</code> y <code>500</code>.
-  </li>
+  <li>Validación de solicitudes con FluentValidation.</li>
+  <li>Validaciones adicionales dentro de los servicios.</li>
+  <li>Manejo global de excepciones.</li>
+  <li>Respuestas de error mediante <code>ProblemDetails</code>.</li>
+  <li>Manejo de errores <code>400</code>, <code>404</code>, <code>409</code>, <code>422</code> y <code>500</code>.</li>
 </ul>
 
 <h3>🗃️ Persistencia y base de datos</h3>
-
 <ul>
-  <li>
-    Entity Framework Core como ORM.
-  </li>
-  <li>
-    SQL Server 2022.
-  </li>
-  <li>
-    DbContext centralizado.
-  </li>
-  <li>
-    Configuraciones separadas por entidad.
-  </li>
-  <li>
-    Repositorios para acceso a datos.
-  </li>
-  <li>
-    Migraciones de base de datos.
-  </li>
-  <li>
-    Relaciones y claves foráneas.
-  </li>
-  <li>
-    Restricciones e índices únicos.
-  </li>
-  <li>
-    Seeders idempotentes.
-  </li>
-  <li>
-    Datos iniciales para usuarios, áreas, consultores y paquetes.
-  </li>
+  <li>Entity Framework Core como ORM.</li>
+  <li>SQL Server 2022.</li>
+  <li>DbContext centralizado.</li>
+  <li>Configuraciones separadas por entidad.</li>
+  <li>Repositorios para acceso a datos.</li>
+  <li>Migraciones de base de datos.</li>
+  <li>Relaciones y claves foráneas.</li>
+  <li>Restricciones e índices únicos.</li>
+  <li>Seeders idempotentes.</li>
+  <li>Datos iniciales para usuarios, áreas, consultores y paquetes.</li>
 </ul>
 
 <h3>🛡️ Consistencia y concurrencia</h3>
-
 <ul>
-  <li>
-    Concurrencia optimista mediante SQL Server
-    <code>rowversion</code>.
-  </li>
-  <li>
-    Propiedad <code>RowVersion</code> en áreas, consultores y paquetes.
-  </li>
-  <li>
-    Envío de la versión original durante las actualizaciones.
-  </li>
-  <li>
-    Detección de registros modificados por otros usuarios.
-  </li>
-  <li>
-    Respuesta <code>409 Conflict</code> ante versiones desactualizadas.
-  </li>
-  <li>
-    Protección contra actualizaciones perdidas.
-  </li>
+  <li>Concurrencia optimista mediante SQL Server <code>rowversion</code>.</li>
+  <li>Propiedad <code>RowVersion</code> en áreas, consultores y paquetes.</li>
+  <li>Envío de la versión original durante las actualizaciones.</li>
+  <li>Detección de registros modificados por otros usuarios.</li>
+  <li>Respuesta <code>409 Conflict</code> ante versiones desactualizadas.</li>
+  <li>Protección contra actualizaciones perdidas.</li>
 </ul>
 
 <h3>⚡ Rendimiento</h3>
-
 <ul>
-  <li>
-    Paginación ejecutada directamente en SQL.
-  </li>
-  <li>
-    Uso de <code>Skip</code> y <code>Take</code>.
-  </li>
-  <li>
-    Consultas de solo lectura con <code>AsNoTracking</code>.
-  </li>
-  <li>
-    Proyecciones directas desde Entity Framework Core hacia DTOs.
-  </li>
-  <li>
-    Uso de <code>IMemoryCache</code> en reportes.
-  </li>
-  <li>
-    Consultas con tracking únicamente cuando se realizará una actualización.
-  </li>
-  <li>
-    Métodos asíncronos.
-  </li>
-  <li>
-    Propagación de <code>CancellationToken</code>.
-  </li>
+  <li>Paginación ejecutada directamente en SQL.</li>
+  <li>Uso de <code>Skip</code> y <code>Take</code>.</li>
+  <li>Consultas de solo lectura con <code>AsNoTracking</code>.</li>
+  <li>Proyecciones directas desde Entity Framework Core hacia DTOs.</li>
+  <li>Uso de <code>IMemoryCache</code> en reportes.</li>
+  <li>Consultas con tracking únicamente cuando se realizará una actualización.</li>
+  <li>Métodos asíncronos.</li>
+  <li>Propagación de <code>CancellationToken</code>.</li>
 </ul>
 
 <h3>📊 Reportes</h3>
-
 <ul>
-  <li>
-    Reportes de paquetes agrupados por área.
-  </li>
-  <li>
-    Reportes de consultores por facturación.
-  </li>
-  <li>
-    Filtros opcionales.
-  </li>
-  <li>
-    Ordenamiento ascendente y descendente.
-  </li>
-  <li>
-    Paginación.
-  </li>
-  <li>
-    Totales, promedios y métricas agregadas.
-  </li>
-  <li>
-    Caché temporal para reducir consultas repetidas.
-  </li>
+  <li>Reportes de paquetes agrupados por área.</li>
+  <li>Reportes de consultores por facturación.</li>
+  <li>Filtros opcionales.</li>
+  <li>Ordenamiento ascendente y descendente.</li>
+  <li>Paginación.</li>
+  <li>Totales, promedios y métricas agregadas.</li>
+  <li>Caché temporal para reducir consultas repetidas.</li>
 </ul>
 
 <h3>📝 Logging y monitoreo</h3>
-
 <ul>
-  <li>
-    Logging mediante <code>ILogger</code>.
-  </li>
-  <li>
-    Registro de operaciones importantes.
-  </li>
-  <li>
-    Registro de errores y eventos relevantes.
-  </li>
-  <li>
-    Health check de proceso mediante
-    <code>/health/live</code>.
-  </li>
-  <li>
-    Health check de API y base de datos mediante
-    <code>/health/ready</code>.
-  </li>
+  <li>Logging mediante <code>ILogger</code>.</li>
+  <li>Registro de operaciones importantes.</li>
+  <li>Registro de errores y eventos relevantes.</li>
+  <li>Health check de proceso mediante <code>/health/live</code>.</li>
+  <li>Health check de API y base de datos mediante <code>/health/ready</code>.</li>
 </ul>
 
 <h3>🧪 Pruebas automatizadas</h3>
-
 <ul>
-  <li>
-    Pruebas unitarias con xUnit.
-  </li>
-  <li>
-    Mocks de dependencias mediante Moq.
-  </li>
-  <li>
-    Pruebas de entidades de dominio.
-  </li>
-  <li>
-    Pruebas de servicios de aplicación.
-  </li>
-  <li>
-    Pruebas de reglas de negocio.
-  </li>
-  <li>
-    Pruebas de autenticación y autorización.
-  </li>
-  <li>
-    Pruebas de integración con WebApplicationFactory.
-  </li>
-  <li>
-    Ejecución del pipeline HTTP completo.
-  </li>
-  <li>
-    SQL Server temporal mediante Testcontainers.
-  </li>
-  <li>
-    Base de Testing aislada de Development.
-  </li>
-  <li>
-    Prueba de concurrencia con respuesta
-    <code>409 Conflict</code>.
-  </li>
-  <li>
-    Pruebas de health checks.
-  </li>
+  <li>Pruebas unitarias con xUnit.</li>
+  <li>Mocks de dependencias mediante Moq.</li>
+  <li>Pruebas de entidades de dominio.</li>
+  <li>Pruebas de servicios de aplicación.</li>
+  <li>Pruebas de reglas de negocio.</li>
+  <li>Pruebas de autenticación y autorización.</li>
+  <li>Pruebas de integración con WebApplicationFactory.</li>
+  <li>Ejecución del pipeline HTTP completo.</li>
+  <li>SQL Server temporal mediante Testcontainers.</li>
+  <li>Base de Testing aislada de Development.</li>
+  <li>Prueba de concurrencia con respuesta <code>409 Conflict</code>.</li>
+  <li>Pruebas de health checks.</li>
 </ul>
 
 <h3>🐳 Contenedores e infraestructura</h3>
-
 <ul>
-  <li>
-    Dockerfile con compilación multi-stage.
-  </li>
-  <li>
-    Imagen final basada en el runtime de .NET.
-  </li>
-  <li>
-    Ejecución con usuario sin privilegios.
-  </li>
-  <li>
-    Docker Compose para API y SQL Server.
-  </li>
-  <li>
-    Variables de entorno.
-  </li>
-  <li>
-    Red interna entre servicios.
-  </li>
-  <li>
-    Dependencia de inicio mediante health checks.
-  </li>
-  <li>
-    Volumen persistente para SQL Server.
-  </li>
-  <li>
-    Separación entre ambientes Development y Testing.
-  </li>
+  <li>Dockerfile con compilación multi-stage.</li>
+  <li>Imagen final basada en el runtime de .NET.</li>
+  <li>Ejecución con usuario sin privilegios.</li>
+  <li>Docker Compose para API y SQL Server.</li>
+  <li>Variables de entorno.</li>
+  <li>Red interna entre servicios.</li>
+  <li>Dependencia de inicio mediante health checks.</li>
+  <li>Volumen persistente para SQL Server.</li>
+  <li>Separación entre ambientes Development y Testing.</li>
 </ul>
 
 <h3>⚙️ Integración continua</h3>
-
 <ul>
-  <li>
-    Workflow automatizado con GitHub Actions.
-  </li>
-  <li>
-    Ejecución en cada push y pull request.
-  </li>
-  <li>
-    Restauración automática de dependencias.
-  </li>
-  <li>
-    Compilación en configuración Release.
-  </li>
-  <li>
-    Ejecución de pruebas unitarias.
-  </li>
-  <li>
-    Ejecución de pruebas de integración.
-  </li>
-  <li>
-    Inicio de SQL Server temporal mediante Testcontainers.
-  </li>
-  <li>
-    Generación de resultados en formato <code>TRX</code>.
-  </li>
-  <li>
-    Publicación de resultados como artefactos.
-  </li>
-  <li>
-    Validación automática del estado completo de la rama.
-  </li>
+  <li>Workflow automatizado con GitHub Actions.</li>
+  <li>Ejecución en cada push y pull request.</li>
+  <li>Restauración automática de dependencias.</li>
+  <li>Compilación en configuración Release.</li>
+  <li>Ejecución de pruebas unitarias.</li>
+  <li>Ejecución de pruebas de integración.</li>
+  <li>Inicio de SQL Server temporal mediante Testcontainers.</li>
+  <li>Generación de resultados en formato <code>TRX</code>.</li>
+  <li>Publicación de resultados como artefactos.</li>
+  <li>Validación automática del estado completo de la rama.</li>
 </ul>
 
 <h3>🔧 Configuración y seguridad de secretos</h3>
-
 <ul>
-  <li>
-    Archivo <code>.env.example</code> como plantilla.
-  </li>
-  <li>
-    Archivo local <code>.env</code> excluido del repositorio.
-  </li>
-  <li>
-    Variables de entorno para SQL Server y JWT.
-  </li>
-  <li>
-    User Secrets para configuración local.
-  </li>
-  <li>
-    Contraseñas de demostración fuera del código fuente.
-  </li>
+  <li>Archivo <code>.env.example</code> como plantilla.</li>
+  <li>Archivo local <code>.env</code> excluido del repositorio.</li>
+  <li>Variables de entorno para SQL Server y JWT.</li>
+  <li>User Secrets para configuración local.</li>
+  <li>Contraseñas de demostración fuera del código fuente.</li>
 </ul>
 
 <br>
@@ -553,7 +321,7 @@ Docker Compose + GitHub Actions CI
 
 </details>
 
-<h2>✨ Otros proyectos destacados</h2>
+✨ Otros proyectos destacados
 
 ☕🛒 BonHouse
 
@@ -606,23 +374,23 @@ Aplicación móvil desarrollada para un negocio local, orientada a la gestión y
   <tr>
     <td width="50%" valign="top">
       <h3>⚙️ Backend</h3>
-      <p>C#, .NET, ASP.NET Core Web API, REST, Entity Framework Core, Clean Architecture</p>
+      <p>C#, .NET, ASP.NET Core Web API, REST, Entity Framework Core y Clean Architecture.</p>
 
   <h3>🎨 Frontend</h3>
-  <p>Angular, JavaScript, TypeScript, React, HTML y CSS</p>
+  <p>Angular, JavaScript, TypeScript, React, HTML y CSS.</p>
 
   <h3>🗃️ Bases de datos</h3>
-  <p>SQL Server, PostgreSQL, procedimientos almacenados y optimización de consultas</p>
+  <p>SQL Server, PostgreSQL, procedimientos almacenados y optimización de consultas.</p>
 </td>
 <td width="50%" valign="top">
   <h3>☁️ Cloud y DevOps</h3>
-  <p>Docker, CI/CD, GitHub Actions, Jenkins, AWS Lambda, IAM, EC2 y Kubernetes</p>
+  <p>Docker, CI/CD, GitHub Actions, Jenkins, AWS Lambda, IAM, EC2 y Kubernetes.</p>
 
   <h3>🧪 Calidad</h3>
-  <p>xUnit, Moq, pruebas de integración, Testcontainers, Postman y Swagger</p>
+  <p>xUnit, Moq, pruebas de integración, Testcontainers, Postman y Swagger.</p>
 
   <h3>🧰 Herramientas</h3>
-  <p>Git, GitHub, Jira, Azure Boards, Visual Studio, DBeaver y Postman</p>
+  <p>Git, GitHub, Jira, Azure Boards, Visual Studio, DBeaver y Postman.</p>
 </td>
 
   </tr>
